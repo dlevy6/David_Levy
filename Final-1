@@ -1,0 +1,128 @@
+State,Country,Recovered,Confirmed,Deaths
+Alabama,US,0.0,226006.0,7815.0
+Alaska,US,0.0,13074.0,348.0
+Alberta,Canada,0.0,147283.0,2641.0
+Anhui,Mainland China,79923.0,96190.0,545.0
+Arizona,US,8.0,244056.0,9689.0
+Arkansas,US,0.0,96503.0,1942.0
+Aruba,Netherlands,2116.0,4064.0,58.0
+Australian Capital Territory,Australia,3158.0,4778.0,108.0
+Beijing,Mainland China,35104.0,49762.0,690.0
+Bermuda,UK,1561.0,3591.0,194.0
+British Columbia,Canada,87.0,81084.0,3642.0
+California,US,40.0,1571567.0,57792.0
+Cayman Islands,UK,483.0,2581.0,57.0
+Channel Islands,UK,8788.0,19563.0,1012.0
+Chongqing,Mainland China,45954.0,57025.0,551.0
+Colorado,US,0.0,473832.0,21759.0
+Connecticut,US,0.0,824178.0,59720.0
+Delaware,US,0.0,132080.0,4021.0
+Denmark,Denmark,11.0,10229.0,42.0
+Diamond Princess cruise ship,Others,5003.0,26106.0,189.0
+Diamond Princess cruise ship,US,0.0,3061.0,0.0
+District of Columbia,US,0.0,134735.0,5762.0
+Faroe Islands,Denmark,7030.0,9391.0,0.0
+Florida,US,0.0,1120113.0,36744.0
+France,France,132.0,78284.0,2056.0
+French Guiana,France,2964.0,4489.0,22.0
+French Polynesia,France,3222.0,22386.0,860.0
+Fujian,Mainland China,25408.0,32066.0,82.0
+Gansu,Mainland China,9928.0,12064.0,187.0
+Georgia,US,0.0,825432.0,32939.0
+Gibraltar,UK,4496.0,5797.0,0.0
+Grand Princess,US,0.0,5061.0,110.0
+Guadeloupe,France,3017.0,6810.0,429.0
+Guam,US,0.0,5950.0,204.0
+Guangdong,Mainland China,113327.0,142953.0,657.0
+Guangxi,Mainland China,19517.0,24798.0,182.0
+Guizhou,Mainland China,11507.0,14022.0,181.0
+Hainan,Mainland China,13285.0,16476.0,531.0
+Hawaii,US,0.0,23139.0,454.0
+Hebei,Mainland China,25864.0,30754.0,538.0
+Heilongjiang,Mainland China,39804.0,59086.0,1195.0
+Henan,Mainland China,103634.0,124328.0,1934.0
+Hong Kong,Hong Kong,27335.0,50532.0,306.0
+Hubei,Mainland China,4488681.0,6225351.0,304499.0
+Hunan,Mainland China,84284.0,100178.0,354.0
+Idaho,US,0.0,70216.0,1800.0
+Illinois,US,16.0,1584038.0,65369.0
+Indiana,US,0.0,539229.0,29052.0
+Inner Mongolia,Mainland China,7432.0,11596.0,70.0
+Iowa,US,0.0,200811.0,4379.0
+Isle of Man,UK,7309.0,11019.0,478.0
+Jiangsu,Mainland China,52058.0,62146.0,0.0
+Jiangxi,Mainland China,75858.0,91089.0,92.0
+Jilin,Mainland China,7708.0,9548.0,95.0
+Kansas,US,0.0,124199.0,4046.0
+Kentucky,US,2.0,140794.0,6964.0
+Liaoning,Mainland China,10430.0,13273.0,143.0
+Louisiana,US,0.0,987448.0,57563.0
+Macau,Macau,1393.0,2715.0,0.0
+Maine,US,0.0,38555.0,1517.0
+Manitoba,Canada,0.0,10831.0,207.0
+Martinique,France,2770.0,7548.0,428.0
+Maryland,US,6.0,647507.0,28987.0
+Massachusetts,US,8.0,1802510.0,91092.0
+Mayotte,France,6649.0,16880.0,184.0
+Michigan,US,0.0,1353331.0,107041.0
+Minnesota,US,0.0,165186.0,9176.0
+Mississippi,US,0.0,208540.0,8051.0
+Missouri,US,0.0,254824.0,9931.0
+Montana,US,0.0,17606.0,469.0
+Nebraska,US,0.0,119428.0,1748.0
+Netherlands,Netherlands,12.0,14254.0,443.0
+Nevada,US,0.0,167202.0,7151.0
+New Brunswick,Canada,0.0,5111.0,0.0
+New Hampshire,US,0.0,68142.0,2139.0
+New Jersey,US,2.0,3727615.0,197745.0
+New Mexico,US,0.0,98214.0,3291.0
+New South Wales,Australia,51498.0,133764.0,1348.0
+New York,US,0.0,10300267.0,688899.0
+Newfoundland and Labrador,Canada,0.0,10909.0,108.0
+Ningxia,Mainland China,6251.0,7157.0,0.0
+North Carolina,US,0.0,326339.0,10571.0
+North Dakota,US,0.0,30068.0,618.0
+Northern Territory,Australia,513.0,1257.0,0.0
+Nova Scotia,Canada,0.0,26270.0,644.0
+Ohio,US,0.0,537985.0,25840.0
+Oklahoma,US,0.0,117219.0,6577.0
+Ontario,Canada,59.0,518820.0,32130.0
+Oregon,US,0.0,86755.0,3223.0
+Pennsylvania,US,0.0,1450764.0,66152.0
+Prince Edward Island,Canada,0.0,1143.0,1.0
+Puerto Rico,US,0.0,51498.0,2685.0
+Qinghai,Mainland China,1598.0,1829.0,0.0
+Quebec,Canada,0.0,869619.0,49251.0
+Queensland,Australia,25990.0,47164.0,226.0
+Reunion,France,8376.0,17666.0,0.0
+Rhode Island,US,0.0,233496.0,7453.0
+Saskatchewan,Canada,0.0,15650.0,198.0
+Shaanxi,Mainland China,20075.0,25560.0,199.0
+Shandong,Mainland China,57961.0,71957.0,564.0
+Shanghai,Mainland China,34947.0,46317.0,444.0
+Shanxi,Mainland China,11825.0,15142.0,0.0
+Sichuan,Mainland China,42291.0,53063.0,276.0
+Sint Maarten,Netherlands,872.0,2485.0,411.0
+South Australia,Australia,11906.0,20285.0,132.0
+South Carolina,US,0.0,196588.0,6701.0
+South Dakota,US,0.0,69420.0,534.0
+St Martin,France,744.0,1554.0,99.0
+Taiwan,Taiwan,189.0,1104.0,24.0
+Tasmania,Australia,3776.0,7612.0,327.0
+Tennessee,US,0.0,357562.0,6273.0
+Texas,US,0.0,895132.0,22831.0
+Tianjin,Mainland China,12214.0,15386.0,277.0
+United Kingdom,UK,386.0,20887.0,778.0
+Utah,US,0.0,149126.0,1357.0
+Vermont,US,0.0,32978.0,1646.0
+Victoria,Australia,44233.0,60671.0,613.0
+Virgin Islands,US,0.0,2417.0,103.0
+Virginia,US,0.0,460344.0,15268.0
+Washington,US,8.0,545891.0,28535.0
+West Virginia,US,0.0,35736.0,1042.0
+Western Australia,Australia,14372.0,24098.0,312.0
+Wisconsin,US,8.0,226207.0,9514.0
+Wyoming,US,0.0,17366.0,154.0
+Xinjiang,Mainland China,5659.0,7247.0,243.0
+Yunnan,Mainland China,14286.0,17805.0,165.0
+Zhejiang,Mainland China,101215.0,123128.0,82.0
